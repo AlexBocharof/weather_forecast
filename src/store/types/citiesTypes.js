@@ -1,0 +1,8 @@
+export const SELECT_CITY = 'select-city'
+export const ADD_CITY = 'add-city'
+export const REMOVE_CITY = 'remove-city'
+export const LOAD_CITY = 'load-city'
+export const GET_CURRENT_CITY_COORDS = 'get-current-city-coords'
+export const CURRENT_CITY_SUCCESS = 'current-city-success'
+export const SELECTED_CITY_SUCCESS = 'selected-city-success'
+export const ERROR_CITY = 'error-city'
